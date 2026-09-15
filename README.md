@@ -1,2 +1,2 @@
 # expense-tracker
-A simple web application for trackin expenses and managingpersonal spemding.
+A simple web application for tracking expenses and managing personal spending.
